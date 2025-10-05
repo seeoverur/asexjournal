@@ -1,0 +1,8 @@
+# robots.txt for asexjournal.com
+
+# Allow all bots to crawl everything
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://asexjournal.com/sitemap.xml
